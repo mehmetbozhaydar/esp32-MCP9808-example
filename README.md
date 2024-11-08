@@ -16,5 +16,5 @@ Change the "EXTRA_COMPONENT_DIRS" file extension in CMakeList and Makefile to th
 
 | Name | Description | Defaults |
 |------|-------------|----------|
-| `CONFIG_EXAMPLE_I2C_MASTER_SCL` | GPIO number for `SCL` | "5" for `esp8266`, "6" for `esp32c3`,"4" for 'esp32h2', "19" for `esp32`, `esp32s2`, and `esp32s3` |
-| `CONFIG_EXAMPLE_I2C_MASTER_SDA` | GPIO number for `SDA` | "4" for `esp8266`, "5" for `esp32c3`,"3" for 'esp32h2', "18" for `esp32`, `esp32s2`, and `esp32s3` |
+| `CONFIG_EXAMPLE_I2C_MASTER_SCL` | GPIO number for `SCL` | "5" for `esp8266`, "6" for `esp32c3`, "4" for `esp32h2` , "19" for `esp32`, `esp32s2`, and `esp32s3` |
+| `CONFIG_EXAMPLE_I2C_MASTER_SDA` | GPIO number for `SDA` | "4" for `esp8266`, "5" for `esp32c3`, "3" for `esp32h2` , "18" for `esp32`, `esp32s2`, and `esp32s3` |
