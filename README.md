@@ -1,4 +1,4 @@
-# Example for `mcp9808` driver
+# Example for MCP9808 driver
 
 ## What it does
 
